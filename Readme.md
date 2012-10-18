@@ -30,13 +30,16 @@
 ## API
 
 ### (el)
-    The container element of the carousel.
+
+The container element of the carousel.
 
 ### next()
-    Show the next item. if there is none returns null.
+
+Show the next item. if there is none returns null.
 
 ### prev()
-    Show the previous item. if there is none returns null.
+
+Show the previous item. if there is none returns null.
 
 ## License
 
