@@ -1,5 +1,5 @@
 
-# screens
+# carousel-slide
 
   Simple carousel library with slide transition.
   Based on http://github.com/tomerdmnt/carousel
@@ -31,7 +31,7 @@
 
 ### (el)
 
-The container element of the carousel.
+Binds to the container element of the carousel.
 
 ### next()
 
