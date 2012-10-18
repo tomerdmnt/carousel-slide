@@ -1,8 +1,8 @@
 
 # carousel-slide
 
-  Simple carousel library with slide transition.
-  Based on http://github.com/tomerdmnt/carousel
+  Simple carousel [component](http://github.com/component/component) with slide transition.
+  Based on [tomerdmnt/carousel](http://github.com/tomerdmnt/carousel)
 
   ```html
     <div id="myCarousel">
