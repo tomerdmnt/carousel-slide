@@ -3,7 +3,7 @@
   "repo": "tomerdmnt/carousel-slide",
   "description": "A slide transition for the Carousel component",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [ "ui", "carousel", "slide" ],
   "dependencies": {
     "tomerdmnt/carousel": "*",
     "component/inherit": "*",
