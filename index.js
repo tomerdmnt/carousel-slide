@@ -11,7 +11,6 @@ function CarouselSlide(el, opts) {
 
   this.forEach(function (item) {
     setTimeout(function () {
-      console.log(item);
       classes(item).add('carousel-slide');
     }, 0);
   })
