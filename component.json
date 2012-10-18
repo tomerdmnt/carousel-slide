@@ -1,0 +1,19 @@
+{
+  "name": "carousel-slide",
+  "repo": "tomerdmnt/carousel-slide",
+  "description": "A slide transition for the Carousel component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "tomerdmnt/carousel": "*",
+    "component/inherit": "*",
+    "component/classes": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "carousel-slide.css"
+  ]
+}
